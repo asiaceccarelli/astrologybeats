@@ -1,0 +1,268 @@
+body {
+    padding: 0px !important;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+header {
+    background-image: url(https://i.pinimg.com/564x/fa/37/4d/fa374d49224383467ce71e46363bf954.jpg);
+    color: white;
+    font-family: 'Sigmar', cursive;
+    font-size: 1.5em;
+    letter-spacing: 0.05em;
+}
+
+.division {
+    background-image: url(https://i.pinimg.com/564x/fa/37/4d/fa374d49224383467ce71e46363bf954.jpg);
+    margin: 0px 10px 0px 10px;
+    height: 50px;
+}
+
+.bottom {
+    background-image: url(https://i.pinimg.com/564x/fa/37/4d/fa374d49224383467ce71e46363bf954.jpg);
+    color: white;
+    font-family: 'Figtree', sans-serif;
+    font-size: 0.7em;
+    height: 150px;
+    padding-top: 2%;
+}
+
+.eh {
+    padding-top: 10px;
+}
+
+.row {
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Londrina Outline', cursive;
+    font-size: 4.5em;
+}
+
+header, section {
+    padding: 4% 4% 0px 4%;
+}
+
+.whitelink {
+    color: white;
+}
+
+#homeimg {
+    height: 500px;
+    width: auto;
+}
+
+h2 {
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+    color: #220063; 
+}
+
+.active {
+    background-color: white;
+    color: #220063;
+    border-radius: 6px 6px 0px 0px;
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 0px 10px;
+}
+
+p {
+    font-family: 'Figtree', sans-serif;
+    font-size: 1.2em;
+}
+
+.blacklink {
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+    color: #220063;
+}
+
+.notlink {
+    font-family: 'Figtree', sans-serif;
+    font-size: 1.5em;
+    color: black;
+}
+
+.zodiac {
+    font-family: 'Londrina Outline', cursive;
+    font-size: 3em;
+    color: white;
+    text-align: left;
+}
+
+.description {
+    font-family: 'Figtree', sans-serif;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+    color: white;
+    text-align: left;
+}
+
+.ariesimg {
+    height: 200px;
+    width: auto;
+}
+
+#ariesbackground {
+    background-color: #BD3340;
+}
+
+#taurusbackground {
+    background-color: #6EA55D;
+}
+
+#geminibackground {
+    background-color: #F7EFC2;
+}
+
+#cancerbackground {
+    background-color: #0C98C7;
+}
+
+#leobackground {
+    background-color: #FCC214;
+}
+
+#virgobackground {
+    background-color: #7209FC;
+}
+
+#librabackground {
+    background-color: #FA46A3;
+}
+
+#scorpiobackground {
+    background-color: #FD5405;
+}
+
+#sagbackground {
+    background-color: #9BB0B2;
+}
+
+#capbackground {
+    background-color: #FFF5D9;
+}
+
+#captitle {
+    color: black;
+}
+
+#aquariusbackground {
+    background-color: #092EB5;
+}
+
+#piscesbackground {
+    background-color: #D1C9FF;
+}
+
+.nav_button {
+    font-family: 'Londrina Outline', cursive;
+    letter-spacing: 0.05em;
+    border-radius: 80px;
+    color: white;
+    background-image: url(https://i.pinimg.com/564x/fa/37/4d/fa374d49224383467ce71e46363bf954.jpg);
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 1vw;
+    vertical-align: middle;
+}
+
+#nav {
+    padding-bottom: 17px;
+}
+
+#deactivated {
+    background-color: white;
+    color: #220063;
+    background-image: none;
+    font-family:'Sigmar', cursive;
+}
+
+#return {
+    color: white;
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+}
+
+#returntop {
+    color: black;
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+}
+
+.idk {
+    background-image: url(https://i.pinimg.com/564x/fa/37/4d/fa374d49224383467ce71e46363bf954.jpg);
+    height: 500px;
+    width: auto;
+}
+
+#white {
+    color: white;
+}
+
+.fa-solid {
+    color: white;
+    font-size: 25px;
+}
+
+h4 {
+    color: white;
+    font-family: 'Sigmar', cursive;
+    font-size: 2.5em;
+    letter-spacing: 0.05em;
+    padding-top: 50px;  
+}
+
+.fa-brands {
+    color: white;
+    font-size: 25px;
+}
+
+.ex {
+    color: black;
+}
+
+#bb {
+    color: black;
+}
+
+.aboutlink {
+    color: black;
+}
+
+.documentazione {
+    color: #220063;
+}
+
+.docu {
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 0.05em;
+    line-height: 1px;
+}
+
+.fotodocu {
+    height: 300px;
+    width: auto;
+}
+
+.testodocu {
+    text-align: left;
+    font-family: 'Figtree', sans-serif;
+    font-size: 1.2em;
+}
